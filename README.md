@@ -1,1 +1,3 @@
-# DMML_CW2_Group2
+# Data Mining and Machine Learning: Coursework Assignment 2
+## Group 2
+
