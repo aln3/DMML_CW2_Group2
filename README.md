@@ -15,6 +15,7 @@
     * 10 Fold Cross Validation
     * Tested and Trained on given Datasets 
     * Tested and Trained on Modified Datasets
+    * covers standerdisation for reaserch question
     * see output folder for all trees and screeshots of weka user clasifyer
 * ***LinearClassifier.ipynp***
     * 10 Fold Cross Validation
