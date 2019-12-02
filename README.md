@@ -6,11 +6,15 @@
 
 # Program Inclusions: 
 * ***decisiontree.ipunp***
-    * covers rendom forest and decision trees
+    * covers random forest and decision trees
     * 10 Fold Cross Validation
     * Tested and Trained on given Datasets 
     * Tested and Trained on Modified Datasets
     * see output folder for all trees and screeshots of weka user clasifyer
+* ***decisionTreeMain_test_data_equalise.ipynb***
+    * examine the diffrent ways of balancing data sets
+    * calc kappa score
+    * MAE score
 * ***LinearClassifier.ipynp***
     * 10 Fold Cross Validation
     * Tested and Trained on given Datasets 
