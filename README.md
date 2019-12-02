@@ -5,16 +5,16 @@
 ## Our code and results can be viewed directly in GitHub as Jupyter notebooks
 
 # Program Inclusions: 
-* ***decisiontree.ipunp****
+* ***decisiontree.ipunp***
     * covers rendom forest and decision trees
     * 10 Fold Cross Validation
-    * Tesed and Trained on given Datasets 
+    * Tested and Trained on given Datasets 
     * Tested and Trained on Modified Datasets
 
     * see output folder for all trees and screeshots of weka user clasifyer
 * ***LinearClassifier.ipynp***
     * 10 Fold Cross Validation
-    * Tesed and Trained on given Datasets 
+    * Tested and Trained on given Datasets 
     * Tested and Trained on Modified Datasets
 * ***NeuralNetworks1.ipynp***
     * 10 Fold Cross Validation
