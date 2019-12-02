@@ -28,4 +28,4 @@
     * Building and training of Dropout model on supplied training set and tested on 'day' dataset
     * Comparison of results between Base and Dropout
 * ***ROCModule.py***
-    * Provideds mehtod to calculate AUC and plot ROC curves
+    * Provideds method to calculate AUC and plot ROC curves
