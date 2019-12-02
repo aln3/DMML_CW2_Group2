@@ -6,21 +6,21 @@
 
 # Program Inclusions: 
 * [Insert Here]
-* LinearClassifier.ipynp
+* ***LinearClassifier.ipynp***
     * 10 Fold Cross Validation
     * Tesed and Trained on given Datasets 
     * Tested and Trained on Modified Datasets
-* NeuralNetworks1.ipynp
+* ***NeuralNetworks1.ipynp***
     * 10 Fold Cross Validation
     * Tesed and Trained on given Datasets 
     * Tested and Trained on Modified Datasets
     * Number of Neuron Experiment
     * Learning Rate Experiment
     * Momentum Experiment 
-* NeuralNetworks2.ipynp
+* ***NeuralNetworks2.ipynp***
     *[Insert Here]
     *[Insert Here]
-* Research.ipynp
+* ***Research.ipynp***
     *[Insert Here]
     *[Insert Here]
 
