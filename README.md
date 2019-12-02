@@ -10,7 +10,7 @@
     * examine the diffrent ways of balancing data sets
     * calc kappa score
     * MAE score
-* ***decisiontree.ipynp***
+* ***decisiontree-final.ipynp***
     * covers random forest and decision trees
     * 10 Fold Cross Validation
     * Tested and Trained on given Datasets 
