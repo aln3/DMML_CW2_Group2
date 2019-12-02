@@ -18,9 +18,12 @@
     * Learning Rate Experiment
     * Momentum Experiment 
 * ***NeuralNetworks2.ipynp***
-    *[Insert Here]
-    *[Insert Here]
+    * Base Model tested and trained on given datasets.
+    * Number of Layer Experiment
+    * Number of Epochs Experiment
+    * Validation Threshold Experiment
 * ***Research.ipynp***
-    *[Insert Here]
-    *[Insert Here]
-
+    * Creation of 'day' dataset
+    * Building and training of Base model on supplied training set and tested on 'day' dataset
+    * Building and training of Dropout model on supplied training set and tested on 'day' dataset
+    * Comparison of results between Base and Dropout
